@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+        "dia":"10",
+        "mes":"Julho",
+        "ano":"2024",
+        "titulo":"Sínodo: são necessárias respostas, mesmo que sejam experimentais",
+        "imagem":"https://raw.githubusercontent.com/lulus3/Sinodo/main/Jose_Eduardo_Borges.jpeg",
+        "conteudo":"https://raw.githubusercontent.com/lulus3/Sinodo/main/noticia1.txt"
+    },
+    {
+        "id":2,
+        "dia":"8",
+        "mes":"Julho",
+        "ano":"2024",
+        "titulo":"Sínodo e a Igreja moderna: léxico do Vaticano II e o cânone tridentino. Artigo de Andrea Grillo",
+        "imagem":"https://raw.githubusercontent.com/lulus3/Sinodo/main/Papa_encerra_o_sinodo.png",
+        "conteudo":"https://raw.githubusercontent.com/lulus3/Sinodo/main/noticia2.txt"
+    },
+    {
+        "id":3,
+        "dia":"5",
+        "mes":"Julho",
+        "ano":"2024",
+        "titulo":"Cardeal Gracias: 'Um Sínodo para dar esperança'",
+        "imagem":"https://raw.githubusercontent.com/lulus3/Sinodo/main/Sinodo_dos_Bispos.jpeg",
+        "conteudo":"https://raw.githubusercontent.com/lulus3/Sinodo/main/noticia3.txt"
+    },
+    {
+        "id":4,
+        "dia":"20",
+        "mes":"Junho",
+        "ano":"2024",
+        "titulo":"O Sínodo em um beco sem saída: o clericalismo continua intacto e fechado. Artigo de José Arregi",
+        "imagem":"https://raw.githubusercontent.com/lulus3/Sinodo/main/Sinodo_em_um_beco_sem_saida.jpg",
+        "conteudo":"https://raw.githubusercontent.com/lulus3/Sinodo/main/noticia4.txt"
+    },
+    {
+        "id":5,
+        "dia":"15",
+        "mes":"Junho",
+        "ano":"2024",
+        "titulo":"“Por uma Igreja Sinodal” II, o Direito Canônico, as mulheres e os pobres.",
+        "imagem":"https://raw.githubusercontent.com/lulus3/Sinodo/main/Por_uma_igreja_sinodal.jpeg",
+        "conteudo":"https://raw.githubusercontent.com/lulus3/Sinodo/main/noticia5.txt"
+    },
+    {
+        "id":6,
+        "dia":"2",
+        "mes":"Junho",
+        "ano":"2024",
+        "titulo":"Dicastério para a Doutrina da Fé estuda diaconato feminino, diz o Sínodo da Sinodalidade",
+        "imagem":"https://raw.githubusercontent.com/lulus3/Sinodo/main/Sessao_do_sinodo_da_sinodalidade.jpeg",
+        "conteudo":"https://raw.githubusercontent.com/lulus3/Sinodo/main/noticia6.txt"
+    },
+    {
+        "id":7,
+        "dia":"27",
+        "mes":"Maio",
+        "ano":"2024",
+        "titulo":"“Se as mulheres não se sentem confortáveis na Igreja, falhamos”. Entrevista com o cardeal Jean-Claude Hollerich",
+        "imagem":"https://raw.githubusercontent.com/lulus3/Sinodo/main/papa_mulheres_sinodo_vatican_media.png",
+        "conteudo":"https://raw.githubusercontent.com/lulus3/Sinodo/main/noticia7.txt"
+    },
+    {
+        "id":8,
+        "dia":"20",
+        "mes":"Maio",
+        "ano":"2024",
+        "titulo":"Pela primeira vez, 70 não-bispos terão direito ao voto no Sínodo",
+        "imagem":"https://raw.githubusercontent.com/lulus3/Sinodo/main/Pela_primeira_vez_70_bispos.jpg",
+        "conteudo":"https://raw.githubusercontent.com/lulus3/Sinodo/main/noticia8.txt"
+    },
+    {
+        "id":9,
+        "dia":"5",
+        "mes":"Maio",
+        "ano":"2024",
+        "titulo":"Papa promove grupos de estudo sobre temas levantados no Sínodo",
+        "imagem":"https://raw.githubusercontent.com/lulus3/Sinodo/main/Papa_grupo_de_estudos.jpeg",
+        "conteudo":"https://raw.githubusercontent.com/lulus3/Sinodo/main/noticia9.txt"
+    },
+    {
+        "id":10,
+        "dia":"23",
+        "mes":"Abril",
+        "ano":"2024",
+        "titulo":"Papa define data da segunda sessão do Sínodo sobre Sinodalidade",
+        "imagem":"https://raw.githubusercontent.com/lulus3/Sinodo/main/Papa_define_data.jpg",
+        "conteudo":"https://raw.githubusercontent.com/lulus3/Sinodo/main/noticia10.txt"
+    }
+]

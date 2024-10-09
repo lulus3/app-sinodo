@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "dia": "24",
+        "mes": "Dezembro",
+        "ano": "2024",
+        "titulo": "Reunião dos Coordenadores",
+        "imagem": "https://raw.githubusercontent.com/lulus3/Sinodo/main/imagem1.png",
+        "texto":"https://raw.githubusercontent.com/lulus3/Sinodo/main/evento1.txt"
+    },
+    {
+        "id": 2,
+        "dia": "24 - 26",
+        "mes": "Janeiro",
+        "ano": "2025",
+        "titulo": "Missa da Catedral",
+        "imagem": "https://raw.githubusercontent.com/lulus3/Sinodo/main/imagem2.png",
+        "texto":"https://raw.githubusercontent.com/lulus3/Sinodo/main/evento2.txt"
+    },
+    {
+        "id": 3,
+        "dia": "8 - 9",
+        "mes": "Fevereiro",
+        "ano": "2025",
+        "titulo": "Visita do Papa a Amazonia",
+        "imagem": "https://raw.githubusercontent.com/lulus3/Sinodo/main/imagem3.png",
+        "texto":"https://raw.githubusercontent.com/lulus3/Sinodo/main/evento3.txt"
+    },
+    {
+        "id": 4,
+        "dia": "16 - 18",
+        "mes": "Fevereiro",
+        "ano": "2025",
+        "titulo": "Marcha para o Sinodo",
+        "imagem": "https://raw.githubusercontent.com/lulus3/Sinodo/main/imagem4.png",
+        "texto":"https://raw.githubusercontent.com/lulus3/Sinodo/main/evento4.txt"
+    },
+    {
+        "id": 5,
+        "dia": "21 - 23",
+        "mes": "Fevereiro",
+        "ano": "2025",
+        "titulo": "Sínodo dos Bispos",
+        "imagem": "https://raw.githubusercontent.com/lulus3/Sinodo/main/imagem5.png",
+        "texto":"https://raw.githubusercontent.com/lulus3/Sinodo/main/evento5.txt"
+    },
+    {
+        "id": 6,
+        "dia": "8 - 9",
+        "mes": "Março",
+        "ano": "2025",
+        "titulo": "Igreja para Todos",
+        "imagem": "https://raw.githubusercontent.com/lulus3/Sinodo/main/imagem6.png",
+        "texto":"https://raw.githubusercontent.com/lulus3/Sinodo/main/evento6.txt"
+    },
+    {
+        "id": 7,
+        "dia": "10",
+        "mes": "Março",
+        "ano": "2025",
+        "titulo": "Sinodo de Oração e fé",
+        "imagem": "https://raw.githubusercontent.com/lulus3/Sinodo/main/imagem7.png",
+        "texto":"https://raw.githubusercontent.com/lulus3/Sinodo/main/evento7.txt"
+    },
+    {
+        "id": 8,
+        "dia": "2",
+        "mes": "Maio",
+        "ano": "2025",
+        "titulo": "Sinodo da Amazonia",
+        "imagem": "https://raw.githubusercontent.com/lulus3/Sinodo/main/imagem8.jpg",
+        "texto":"https://raw.githubusercontent.com/lulus3/Sinodo/main/evento8.txt"
+    }
+
+  ]

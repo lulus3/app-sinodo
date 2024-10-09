@@ -1,0 +1,7 @@
+node_modules/
+.git/
+.expo/
+C:/Users/lucas/AppData/
+*.log
+*.tmp
+.eas/
